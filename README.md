@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Guilherme Dias
 
-<!--
-**guilhermedias-dev/guilhermedias-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Foco em **Desenvolvimento com Java, SQL e Git**  
+🚀 Apaixonado por aprender e criar soluções tecnológicas que gerem impacto positivo  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas
+
+- **Linguagens:** Java, Python, SQL, JavaScript  
+- **Frameworks:** Spring Boot (iniciante), Hibernate, JUnit  
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Ferramentas:** Git, GitHub, Power BI, Excel  
+- **Metodologias:** Scrum, Kanban, POO  
+
+---
+
+## 🌍 Onde me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/guilhermedias-ads
+- 📧 E-mail: guilhermedpereira10@gmail.com
