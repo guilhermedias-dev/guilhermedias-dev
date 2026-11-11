@@ -8,9 +8,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** Java, Python, SQL, JavaScript  
-- **Frameworks:** Spring Boot (iniciante)
-- **Banco de Dados:** MySQL, PostgreSQL  
+- **Linguagens:** Java, Python, SQL, JavaScript    
 - **Ferramentas:** Git, GitHub, Power BI, Excel  
  
 ---
