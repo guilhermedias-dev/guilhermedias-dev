@@ -1,15 +1,15 @@
 # 👋 Olá, eu sou o Guilherme Dias
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Foco em **Desenvolvimento com Java, SQL e Git**  
+💻 Foco em **Desenvolvimento com Java, Python e C#**  
 🚀 Apaixonado por aprender e criar soluções tecnológicas que gerem impacto positivo  
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** Java, Python, SQL, JavaScript    
-- **Ferramentas:** Git, GitHub, Power BI, Excel  
+- **Linguagens:** Java, Python e C#    
+- **Ferramentas:** Git, GitHub, Power BI e Excel  
  
 ---
 
